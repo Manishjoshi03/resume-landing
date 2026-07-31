@@ -1,6 +1,6 @@
 # 🌐 ResumeFlow – AI Resume Builder Landing Page
 
-🔗 **Live Demo:** [https://github.com/Manishjoshi03/resume-landing/](https://github.com/Manishjoshi03/resume-landing/)
+🔗 **Live Demo:** [https://manishjoshi03.github.io/resume-landing/](https://manishjoshi03.github.io/resume-landing/)
 
 ## 📁 Preview
 ![ResumeFlow Landing Page](images/preview.png)
